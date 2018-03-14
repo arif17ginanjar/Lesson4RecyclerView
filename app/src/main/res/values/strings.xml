@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson4RecyclerView</string>
+    <string name="name">Name</string>
+    <string name="forces">Forces</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card">Card</string>
+    <string name="photo">photo</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
